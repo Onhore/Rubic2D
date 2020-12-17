@@ -1,0 +1,7 @@
+D:\Workspace\Rubic\Rubic\bin\Debug\Rubic.exe.config
+D:\Workspace\Rubic\Rubic\bin\Debug\Rubic.exe
+D:\Workspace\Rubic\Rubic\bin\Debug\Rubic.pdb
+D:\Workspace\Rubic\Rubic\obj\Debug\Rubic.csprojAssemblyReference.cache
+D:\Workspace\Rubic\Rubic\obj\Debug\Rubic.csproj.CoreCompileInputs.cache
+D:\Workspace\Rubic\Rubic\obj\Debug\Rubic.exe
+D:\Workspace\Rubic\Rubic\obj\Debug\Rubic.pdb
